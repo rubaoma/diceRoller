@@ -1,3 +1,3 @@
 # Dice Roller (jogo de dados)
 
-App is based in codelab on Goolge using a library Jetpack Compose.
+App is based a Google codelab, using a library Jetpack Compose.
